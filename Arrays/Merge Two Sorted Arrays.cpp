@@ -12,7 +12,7 @@ vector<int> mergeSortedArrays(vector<int> A, vector<int> B) {
 
 //Time Complexity: O((m + n) * log (m + n))
 //Auxiliary Space Complexity: O(1)
-
+-----------------------------------------------------------------------------
 //optimal
 
 vector<int> mergeSortedArrays(vector<int> A, vector<int> B) {
